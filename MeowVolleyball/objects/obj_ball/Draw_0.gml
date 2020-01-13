@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_ball, image_index, x, y, image_xscale, yscale, rot_angle, c_white, 1);
